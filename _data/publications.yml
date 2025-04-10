@@ -1,12 +1,12 @@
 main:
   - title: "Development of a Bionic Metastructure and Its Coupling to Sensor Fusion"
-    authors: "Chen, W., Lu, Q., **Gu, L.**, & Qin, J."
+    authors: Chen, W., Lu, Q., **Lingdan Gu**, & Qin, J.
     conference: "International Conference on Mechatronics and Intelligent Robotics (ICMIR), Springer, Singapore, 2023"
     conference_short: "ICMIR 2023"
     pdf: "https://link.springer.com/chapter/10.1007/978-981-99-7311-8_43"
 
   - title: "AgileVision Academy: Indoor Drone Navigation and Obstacle Avoidance"
-    authors: "Jiang, H., **Gu, L.**, et al."
+    authors: Jiang, H., **Lingdan Gu**, et al.
     conference: "2024 14th International Conference on Information Technology in Medicine and Education (ITME), IEEE"
     conference_short: "ITME 2024"
     pdf: "https://ieeexplore.ieee.org/abstract/document/10935434"
