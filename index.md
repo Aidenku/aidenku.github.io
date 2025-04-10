@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi! I’m **Lingdan Gu (Aiden Ku)**, currently pursuing a Master’s in Robotics (MEAM, Robotics Track) at the University of Pennsylvania.  
+Previously, I studied Intelligent Robotics Engineering at Xi’an Jiaotong-Liverpool University (XJTLU).  
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research interests include motion planning, mobile robotics, autonomous drone navigation, and trajectory optimization.
 
 ## News
 
@@ -21,3 +21,5 @@ I am a Ph.D. student at ...
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+📄 [My CV](/assets/pdf/CV.pdf) | 🔗 [LinkedIn](https://www.linkedin.com/in/lingdan-gu-0043492b2/)
