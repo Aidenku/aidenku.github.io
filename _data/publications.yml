@@ -10,3 +10,4 @@ main:
     conference: "2024 14th International Conference on Information Technology in Medicine and Education (ITME), IEEE"
     conference_short: "ITME 2024"
     pdf: "https://ieeexplore.ieee.org/abstract/document/10935434"
+    image: /assets/img/paper1.jpg 
